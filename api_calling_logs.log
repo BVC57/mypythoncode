@@ -1,0 +1,2 @@
+2023-08-24 11:43:50,421 - root - INFO - Server started at http://127.0.0.1:8000
+2023-08-24 11:43:55,139 - root - INFO - ['GET', 'POST', 'PUT', 'DELETE', 'OPTION', 'HEAD']
